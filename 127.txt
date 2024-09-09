@@ -4,4 +4,4 @@
 127.0.0.1 genuine.adobe.com
 127.0.0.1 photo-api.adobe.io
 127.0.0.1 lcs-cops.adobe.io
-127.0.0.1 lcs-cops.adobe.io
+127.0.0.1 www.photoshop.com
